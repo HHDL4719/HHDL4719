@@ -12,9 +12,7 @@ apt install proot-distro
 ```
 proot-distro list
 ```
-```markdown
-![示例](https://github.com/HHDL4719/HHDL4719/list.gif)
-```
+![示例](https://github.com/HHDL4719/HHDL4719/blob/main/list.gif)
 4:选择你想要的,例如ubuntu
 ```
 proot-distro install ubuntu
