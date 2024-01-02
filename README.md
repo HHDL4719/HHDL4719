@@ -1,10 +1,3 @@
-- 👋 我把这个当网盘
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ ate on ...
-- 📫 How to reach me ...
-
-<!---
-HHDL4719/HHDL4719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+直接开始正题
+```
+111
