@@ -1,8 +1,22 @@
 直接开始正题
-1
+
+1:
 ```
 apt update
 ```
-2
+2:
 ```
 apt install proot-distro
+```
+3:
+```
+proot-distro list
+```
+!(list.gif)
+4:选择你想要的,例如ubuntu
+```
+proot-distro install ubuntu
+```
+5:
+```
+proot-distro login ubuntu
